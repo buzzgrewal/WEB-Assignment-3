@@ -6,7 +6,7 @@ Personal Portfolio
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Sign-in-Sign-up-Page | Tools & Technology
+## Personal Portfolio| Tools & Technology
 
 * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 * <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -17,36 +17,47 @@ Personal Portfolio
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Sign-in-Sign-up-Page | SnapShots
+## Personal Portfolio | SnapShots
 
-# Sign-in Page
-![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/7e87970e-16c0-4059-b7fb-659962b2b6ca)
+# Home Page
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/ab5ce1ab-3aa1-4dbb-a17d-91e9d57e574c)
 
-# Sign-up Page
-![image](https://github.com/SaadAthar04/Sign-in-Sign-up-Page/assets/136602373/16043cb2-2d09-4ad9-a31c-001d4ce5d2f8)
-# Nothing-Page 
-![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/13669169-b105-4b98-991b-045333fb3c3a)
 
-# UserName Validation
-![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/f62ba6a9-b19d-4e62-8c2a-83d7aec04f56)
+# About
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/d8ae2a83-be11-4f33-8cd1-6e656770e12c)
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/db23a41e-a6b1-44ad-acbb-52e2661b13d6)
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/8c681c69-6d4e-4f57-867c-488382a54934)
 
-# Password Validation
-![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/fdd7f881-ec47-4fa1-bf84-b2af26e75025)
 
-# Email Validation
-![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/19a565f9-0842-4ce4-8157-49f0ae361234)
+# Resume
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/abab5140-959c-44c6-bd81-34409b84040d)
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/2664d7b5-5275-413a-a6f8-dfe039ba61e5)
 
-# Phone Number Validation
-![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/fdbb6091-5b89-4696-a401-0ce2bcf4b8b2)
 
-# Age Validation
-![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/284ccab8-f89a-4113-9a0c-1021c8018708)
 
-# Successful Sign-up
-![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/c8a6c822-5c30-416a-80e5-005a06980a2c)
+# services
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/97e21147-dba8-451c-a339-993651a50499)
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/6a33ee8e-95c2-4e47-ace0-bb051263c43c)
 
-# Successful Sign-in
-![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/33a34302-d6ea-48f5-b8a0-7079aa57eebd)
+
+
+# Portfolio
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/9f1a6638-fe16-459e-80d6-a9d8528a3360)
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/cf7d102d-8a93-40bc-93cb-9f81091c2cef)
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/56725222-14bf-4c02-a2d1-dddd4fa65df2)
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/11f2b5af-6e3f-40c6-a409-3c1bcf918c9a)
+
+
+
+
+
+# Contact
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/af0d975a-a506-4f5e-ac08-03fd2c5f81e0)
+
+
+# Social Media
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/09668bab-6e42-44ba-b406-af3047afcda9)
+
 
 <a name="readme-top"></a>
 ## Bootstrap
