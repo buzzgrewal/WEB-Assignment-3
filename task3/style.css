@@ -1,0 +1,126 @@
+body {
+    background-color: #222;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+
+}
+
+.clock {
+    font-size: 60px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+
+}
+
+.separator {
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+
+}
+
+#period {
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+
+}
+
+#hours{
+    background: linear-gradient(to bottom, #000000, #5c5c5c); 
+    filter: drop-shadow(0.75rem 0 0.75rem rgb(82, 82, 82));
+
+
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+
+}
+
+#minutes{
+    background: linear-gradient(to bottom, #000000, #5c5c5c); 
+    filter: drop-shadow(0.75rem 0 0.75rem rgb(82, 82, 82));
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+
+}
+
+#seconds{
+    background: linear-gradient(to bottom, #000000, #5c5c5c); 
+    filter: drop-shadow(0.75rem 0 0.75rem rgb(82, 82, 82));
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+
+}
+
+#time{
+    background: linear-gradient(to bottom, #000000, #5c5c5c); 
+    filter: drop-shadow(0.75rem 0 0.75rem rgb(82, 82, 82));
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+
+}
+
+
+
+#period{
+    background: linear-gradient(to bottom, #000000, #5c5c5c); 
+    filter: drop-shadow(0.75rem 0 0.75rem rgb(82, 82, 82));
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+
+}
