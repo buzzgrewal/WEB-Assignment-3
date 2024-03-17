@@ -1,0 +1,47 @@
+.game-container {
+    width: 500px;
+    margin: 50px auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.choices{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+
+}
+
+#rock, #paper, #scissors{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#rock:hover, #paper:hover, #scissors:hover{
+    background-color: #f2f2f2;
+}
+
+.result{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#userChoice, computerChoice{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#userChoice{
+    color: #ff0000;
+}
+
+#computerChoice{
+    color: #0000ff;
+}
+
+#score{
+    margin-top: 20px;
+    font-size: 20px;
+}
