@@ -1,8 +1,7 @@
 # Web Assignment 3
 <a name="readme-top"></a>
-## Introduction
+## Personal Portfolio
 
-Personal Portfolio
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,10 +59,19 @@ Personal Portfolio
 
 
 <a name="readme-top"></a>
-## Bootstrap
+## Clock
 
-# Basic Bootstrap webpage
-![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/2294955b-0492-4057-8150-84f499852f28)
+# Digital Clock 
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/371a1d61-8a6a-4856-8593-9a4fbf02d0eb)
+
+
+## Game
+
+# Rock, Paper, Scissor Game
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/c7f0b216-2cf9-4f8e-9ecb-6e39d34b2325)
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/199e148a-ed7e-4f5e-850d-319119cea730)
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/bec6e245-8374-4255-991a-3b2193f89ac8)
+
 
 
 
