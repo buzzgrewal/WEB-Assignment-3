@@ -57,12 +57,19 @@
 # Social Media
 ![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/09668bab-6e42-44ba-b406-af3047afcda9)
 
+<a name="readme-top"></a>
+## Weather
+
+# Current weather and 8 day forcast
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/0e54ae35-7196-4c79-9447-ccf352d40303)
+
 
 <a name="readme-top"></a>
 ## Clock
 
 # Digital Clock 
 ![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/371a1d61-8a6a-4856-8593-9a4fbf02d0eb)
+![image](https://github.com/buzzgrewal/WEB-Assignment-3/assets/99383571/14b17bdc-fa30-47f8-9e9d-8e374bcd7abe)
 
 
 ## Game
