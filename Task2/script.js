@@ -20,9 +20,10 @@ $(document).ready(function()
             let units = 'metric'; // Or 'imperial' if you prefer Fahrenheit
             let exclude = 'minutely,hourly'; 
             let weatherURL = 'https://api.openweathermap.org/data/3.0/onecall?lat='+lat+'&lon='+lon+'&appid=' + apiKey + '&units=' + units + '&exclude=' + exclude;
-            $.getJSON(weatherURL, function(data) {
+            $.getJSON(weatherURL, function(data) 
+            {
                 console.log("Weather data:", data); 
-                updateCurrentWeather(data);
+                updateCurrentWeather(data,city);
                 
             }
             ).fail(function(error)
@@ -33,9 +34,9 @@ $(document).ready(function()
             );
         });
     }
-    function updateCurrentWeather(currentData) 
+    function updateCurrentWeather(currentData,_cityName) 
     {
-     
+        $('#cityName1').text('City: '+ _cityName);
         $('#cityName').text('Latitude: '+ currentData.lat + ' Longitude: '+ currentData.lon);
         $('#currentTemp').text('Temperature: ' + currentData.current.temp + '°C');
         $('#feelsLike').text('Feels like: ' + currentData.current.feels_like + '°C');
